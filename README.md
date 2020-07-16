@@ -1,2 +1,4 @@
 # Recommend System
-ÃßÃµ ½Ã½ºÅÛ¿ °øºÎ³»¿ë Á¤¸®
+ì¶”ì²œì‹œìŠ¤í…œ ê³µë¶€ ë‚´ìš© ì •ë¦¬
+
+ì°¸ê³ ì‚¬ì´íŠ¸ : http://hoondongkim.blogspot.com/2019/03/recommendation-trend.html
