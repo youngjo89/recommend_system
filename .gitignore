@@ -4,3 +4,4 @@ neural_collaborative_filtering/
 __pycache__/
 junk.ipynb
 *.csv
+.config/
